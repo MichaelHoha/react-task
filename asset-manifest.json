@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/nameOfReposetory/static/css/main.523f09c5.chunk.css",
+    "main.js": "/nameOfReposetory/static/js/main.42117ca6.chunk.js",
+    "main.js.map": "/nameOfReposetory/static/js/main.42117ca6.chunk.js.map",
+    "runtime-main.js": "/nameOfReposetory/static/js/runtime-main.d73cc22e.js",
+    "runtime-main.js.map": "/nameOfReposetory/static/js/runtime-main.d73cc22e.js.map",
+    "static/js/2.240e87d1.chunk.js": "/nameOfReposetory/static/js/2.240e87d1.chunk.js",
+    "static/js/2.240e87d1.chunk.js.map": "/nameOfReposetory/static/js/2.240e87d1.chunk.js.map",
+    "index.html": "/nameOfReposetory/index.html",
+    "precache-manifest.130578a9ec006e0ec5a96e5766484387.js": "/nameOfReposetory/precache-manifest.130578a9ec006e0ec5a96e5766484387.js",
+    "service-worker.js": "/nameOfReposetory/service-worker.js",
+    "static/css/main.523f09c5.chunk.css.map": "/nameOfReposetory/static/css/main.523f09c5.chunk.css.map",
+    "static/js/2.240e87d1.chunk.js.LICENSE.txt": "/nameOfReposetory/static/js/2.240e87d1.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/nameOfReposetory/static/media/logo.ee7cd8ed.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d73cc22e.js",
+    "static/js/2.240e87d1.chunk.js",
+    "static/css/main.523f09c5.chunk.css",
+    "static/js/main.42117ca6.chunk.js"
+  ]
+}
