@@ -4,8 +4,8 @@ import './App.css';
 
 function App() {
   return (
-    <div class="kushilirabak">
-      <p>Wazzzup?!</p>
+    <div class="App">
+      
     </div>
   );
 }
